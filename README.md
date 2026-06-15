@@ -1346,7 +1346,7 @@ This unique dual capability of creating AND consuming MCP tools makes Memex the 
 <tr><th align="left">License</th><td>Proprietary (app); companion MyLLM Connect is Apache 2.0</td></tr>
 <tr><th align="left">Type</th><td>Mobile AI assistant (MCP client)</td></tr>
 <tr><th align="left">Platforms</th><td>iOS</td></tr>
-<tr><th align="left">Pricing</th><td>£2.99 one-off</td></tr>
+<tr><th align="left">Pricing</th><td>£3.99 one-off</td></tr>
 <tr><th align="left">Programming Languages</th><td>Swift</td></tr>
 </table>
 
